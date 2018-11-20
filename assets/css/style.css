@@ -258,3 +258,9 @@ input[type=submit] {
     border: none;
     margin-top: 10px;
 }
+
+.link {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
